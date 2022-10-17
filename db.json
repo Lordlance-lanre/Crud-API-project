@@ -1,0 +1,207 @@
+{
+  "database": [
+    {
+      "id": 1,
+      "name": "omotosho alebiosu",
+      "rank": "junior staff",
+      "isEmployed": true,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "id": 2,
+      "name": "Omotola Temi",
+      "rank": "senior staff",
+      "isEmployed": true,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "id": 3,
+      "name": "Alade Tolani",
+      "rank": "executive staff",
+      "isEmployed": true,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "id": 4,
+      "name": "Emeka Chikwe",
+      "rank": "non staff",
+      "isEmployed": false,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "id": 5,
+      "name": "Hassan Adamu",
+      "rank": "senior staff",
+      "isEmployed": true,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "id": 6,
+      "name": "Rekia Salisu",
+      "rank": "non staff",
+      "isEmployed": false,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "id": 7,
+      "name": "Ngozi Stephen",
+      "rank": "non staff",
+      "isEmployed": false,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "name": "ololade temilolowa",
+      "rank": " banker",
+      "isActive": " ",
+      "description": "dasfswgsg",
+      "id": 8
+    },
+    {
+      "name": "ololade temilolowa",
+      "rank": " banker",
+      "isActive": " ",
+      "description": "dasfswgsg",
+      "id": 9
+    },
+    {
+      "name": "ajibade atolagbe",
+      "rank": " bricklayer",
+      "isActive": " ",
+      "description": "lorem ipsum ist sit dolor",
+      "id": 10
+    },
+    {
+      "name": "olopade uchenna",
+      "rank": " tailor",
+      "isActive": " ",
+      "description": "advbjsbdvjkbasdkjvbskjcvbjks",
+      "id": 11
+    },
+    {
+      "name": "olopade uchenna",
+      "rank": " tailor",
+      "isActive": " ",
+      "description": "advbjsbdvjkbasdkjvbskjcvbjks",
+      "id": 12
+    },
+    {
+      "name": "ajala temi",
+      "rank": " sailor",
+      "isActive": " ",
+      "description": "gefcbfiwIFHWHFRWHFINGR",
+      "id": 13
+    },
+    {
+      "name": "olanrewaju omosehin",
+      "rank": " web programmer",
+      "isActive": " ",
+      "description": "jdbvjsbjvbfdvb",
+      "id": 14
+    },
+    {
+      "name": "jide bankole",
+      "rank": " artisan",
+      "isActive": " ",
+      "description": "sfbnhntrhjnrjnthgn",
+      "id": 15
+    },
+    {
+      "name": "ike godwin",
+      "rank": " driver",
+      "isActive": " ",
+      "description": "dwubvuwiwhdviwehvon",
+      "id": 16
+    },
+    {
+      "name": "ike godwin",
+      "rank": " driver",
+      "isActive": " ",
+      "description": "dwubvuwiwhdviwehvon",
+      "id": 17
+    },
+    {
+      "name": "ikanih solomon",
+      "rank": " designer",
+      "isActive": " ",
+      "description": "lorem ipsum ",
+      "id": 18
+    },
+    {
+      "name": "uwezuoke nneka",
+      "rank": " chemist",
+      "isActive": " ",
+      "description": "lorem ipsum",
+      "id": 19
+    },
+    {
+      "name": "ololade asake",
+      "rank": " business man",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 20
+    },
+    {
+      "name": "emeka nwaigbo",
+      "rank": " officer",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 21
+    },
+    {
+      "name": "hassan alimi",
+      "rank": " trader",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 22
+    },
+    {
+      "name": "rekia hassan",
+      "rank": " trader",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 23
+    },
+    {
+      "name": "opeyemi daramola",
+      "rank": " driver",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 24
+    },
+    {
+      "name": "taiye lolu",
+      "rank": " bussiness guru",
+      "isEmployed": " ",
+      "description": "lorem ipsum dolor",
+      "id": 25
+    },
+    {
+      "name": "idowu aaye",
+      "rank": " trader",
+      "isEmployed": " ",
+      "description": "lorem Ipsum sit dolor",
+      "id": 26
+    },
+    {
+      "name": "hamed alhasan",
+      "rank": " trader",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 27
+    },
+    {
+      "name": "james ibori",
+      "rank": " politician",
+      "isEmployed": " ",
+      "description": "lorem ipsum",
+      "id": 28
+    },
+    {
+      "name": "omotosho damilola",
+      "rank": " student",
+      "isEmployed": " ",
+      "description": "lorem ipsum sit dolor",
+      "id": 29
+    }
+  ]
+}
